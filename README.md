@@ -13,5 +13,5 @@ The job of providing the exact time is done by the RTC (Real Time Clock).
 
 ### Simulation
 
-https://user-images.githubusercontent.com/102383350/219679663-8dff27aa-423b-4aaa-86a9-2df0852abf48.mp4
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2B7iyNTzNA8/0.jpg)](https://www.youtube.com/watch?v=2B7iyNTzNA8)
 
